@@ -1,0 +1,21 @@
+#footer{
+  background: #3ac162;
+  padding: 30px 0;
+  color: lightgreen;
+  padding-left: 10px;
+  p{
+  margin-top: 15px;
+  }
+  ul{
+  margin-top: 10px;
+  }
+  a {
+  color: lightgreen;
+  font-size: 30px;
+  letter-spacing: 20px;
+  transition: color 0.25s ease;
+    &:hover{
+      color: darkgreen;
+    }
+  }
+}
