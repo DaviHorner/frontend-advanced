@@ -1,15 +1,24 @@
 mathieu:
+  name: Mathieu
   description: Charming room with patio
   city: Paris
   picture: seb.jpg
   card_picture: card-paris.jpg
+  wifi: Have wifi
+  drink: Have drinks
 roger:
+  name: Roger
   description: Lovely House
   city: Brussels
   picture: anne.jpg
   card_picture: card-brussels.jpeg
+  wifi: Have wifi
+  drink: Have drinks
 davi:
+  name: Davi
   description: Nice flat in Piccadilly
   city: London
   picture: romain.jpeg
   card_picture: card-london.jpeg
+  wifi: Have wifi
+  drink: Have drinks
